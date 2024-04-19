@@ -4,6 +4,10 @@ Team Name: The Giant Squid
 
 Team Members: Stacy Cremer, stc99@pitt.edu; Camila Cavalcanti, cac515@pitt.edu
 
+Camila did the pools and trees notebooks, Stacy did the playgrounds notebook and the writing for the final notebook.
+
+Canvas group number 40
+
 Data used is from the Western Pennsylvania Regional Data Center (WPRDC)
 Pools dataset: https://data.wprdc.org/dataset/city-pools
 Trees dataset: https://data.wprdc.org/dataset/city-trees
